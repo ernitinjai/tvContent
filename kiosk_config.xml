@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kiosk>
 	<layout>
-		<device id="lsn1" version="001" startTime="22/1/2014 6:36:00" endTime="22/1/2014 6:38:00" />
+		<device id="lsn1" version="002" startTime="22/1/2014 6:36:00" endTime="22/1/2014 6:38:00" />
          <frames>
 			<frame id="f1" x="5" y="5" bgcolor="#abcdef">
-				<shape type="rectangle" height="100" width="200" />
+				<shape type="rectangle" height="700" width="200" />
 
 				<schedule>
 					<items>
@@ -13,8 +13,8 @@
 				</schedule>
 			</frame>
 
-			<frame id="f2" x="5" y="110">
-				<shape type="rectangle" height="100" width="600" />
+			<frame id="f2" x="200" y="0">
+				<shape type="rectangle" height="700" width="600" />
 
 				<schedule>
 					<items>
@@ -24,8 +24,8 @@
 				</schedule>
 			</frame>
 
-			<frame id="f3" x="0" y="220">
-				<shape type="rectangle" height="100" width="600" />
+			<frame id="f3" x="800" y="0">
+				<shape type="rectangle" height="700" width="200" />
 
 				<schedule>
 					<items transitionIn="fade_in" transitionOut="fade_out">
@@ -36,8 +36,8 @@
 				</schedule>
 			</frame>
 
-			<frame id="f4" x="305" y="220">
-				<shape type="rectangle" height="100" width="600" />
+			<frame id="f4" x="1000" y="0">
+				<shape type="rectangle" height="700" width="200" />
 
 				<schedule>
 					<items>
@@ -46,8 +46,8 @@
 				</schedule>
 			</frame>
 
-			<frame id="f5" x="0" y="330">
-				<shape type="rectangle" height="100" width="600" />
+			<frame id="f5" x="1200" y="100">
+				<shape type="rectangle" height="700" width="100" />
 
 				<schedule>
 					<items transitionIn="fade_in" transitionOut="fade_out">
