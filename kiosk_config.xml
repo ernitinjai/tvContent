@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kiosk>
 	<layout>
-		<device id="lsn1"  startTime="31/12/2013 10:00:00" endTime="5/1/2014 20:00:00" />
+		<device id="lsn1"  startTime="22/1/2014 5:46:00" endTime="22/1/2014 5:55:00" />
          <frames>
 			<frame id="f1" x="5" y="5" bgcolor="#abcdef">
 				<shape type="rectangle" height="100" width="600" />
@@ -41,7 +41,7 @@
 
 				<schedule>
 					<items>
-						<item type="vid" itemid="6" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/vendor/pg/video/1337057212-Moxies.flv" duration="56"/>
+						<item type="vid" itemid="6" src="http://www.semanticdevlab.com/abc.mp4" duration="56"/>
 					</items>
 				</schedule>
 			</frame>
