@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kiosk>
 	<layout>
-		<device id="lsn1" startTime="22/1/2014 5:50:00" endTime="22/1/2014 5:55:00" />
+		<device id="lsn1" startTime="22/1/2014 6:25:00" endTime="22/1/2014 6:30:00" />
          <frames>
 			<frame id="f1" x="5" y="5" bgcolor="#abcdef">
-				<shape type="rectangle" height="100" width="600" />
+				<shape type="rectangle" height="100" width="200" />
 
 				<schedule>
 					<items>
@@ -18,8 +18,8 @@
 
 				<schedule>
 					<items>
-						<item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380687840-moxies_idle.jpg" duration="30"/>
-                        <item type="web" itemid="2" src="http://www.lsquarednetworks.com/" duration="40"/>
+						<item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380687840-moxies_idle.jpg" duration="300"/>
+                        <item type="web" itemid="2" src="http://www.lsquarednetworks.com/" duration="400"/>
 					</items>
 				</schedule>
 			</frame>
