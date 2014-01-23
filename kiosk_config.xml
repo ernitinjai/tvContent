@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kiosk>
 	<layout>
-		<device id="lsn" version="006" startTime="23/1/2014 4:15:00" endTime="23/1/2014 4:17:00" />
+		<device id="lsn" version="007" startTime="23/1/2014 6:47:00" endTime="23/1/2014 6:50:00" />
          <frames>
 			<frame id="f1" x="5" y="5" bgcolor="#abcdef">
 				<shape type="rectangle" height="700" width="75" />
