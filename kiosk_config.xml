@@ -4,7 +4,7 @@
 		<device id="lsn" version="006" startTime="23/1/2014 4:15:00" endTime="23/1/2014 4:17:00" />
          <frames>
 			<frame id="f1" x="5" y="5" bgcolor="#abcdef">
-				<shape type="rectangle" height="700" width="150" />
+				<shape type="rectangle" height="700" width="75" />
 
 				<schedule>
 					<items>
@@ -20,8 +20,8 @@
 				</schedule>
 			</frame>
 
-			<frame id="f2" x="120" y="0">
-				<shape type="rectangle" height="700" width="600" />
+			<frame id="f2" x="80" y="0">
+				<shape type="rectangle" height="700" width="300" />
 
 				<schedule>
 					<items>
@@ -31,7 +31,7 @@
 				</schedule>
 			</frame>
 
-			<frame id="f3" x="730" y="0">
+			<frame id="f3" x="390" y="0">
 				<shape type="rectangle" height="700" width="200" />
 
 				<schedule>
@@ -43,7 +43,7 @@
 				</schedule>
 			</frame>
 
-			<frame id="f4" x="940" y="0">
+			<frame id="f4" x="590" y="0">
 				<shape type="rectangle" height="700" width="200" />
 
 				<schedule>
@@ -53,7 +53,7 @@
 				</schedule>
 			</frame>
 
-			<frame id="f5" x="1050" y="100">
+			<frame id="f5" x="800" y="100">
 				<shape type="rectangle" height="700" width="100" />
 
 				<schedule>
