@@ -15,7 +15,7 @@
                         <item type="img" itemid="0" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380687840-moxies_idle.jpg" duration ="4000" />
                         <item type="img" itemid="3" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="3000" />
                         <item type="img" itemid="0" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380687840-moxies_idle.jpg" duration ="4000" />
-                        <item type="3dtriangle" itemid="3" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="3000" />
+
                     </items>
                 </schedule>
             </frame>
