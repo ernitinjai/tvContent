@@ -1,73 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kiosk>
-	<layout>
-		<device id="lsn" version="007" startTime="23/1/2014 6:47:00" endTime="23/1/2014 6:50:00" />
-         <frames>
-			<frame id="f1" x="5" y="5" bgcolor="#abcdef">
-				<shape type="rectangle" height="700" width="75" />
+    <layout>
+        <device id="lsn" version="007" width = "400" height = "200" startTime="23/1/2014 6:47:00" endTime="23/1/2014 6:50:00" />
+        <frames>
+            <frame id="f1" x="0" y="0" bgcolor="#abcdef">
+                <shape type="rectangle" height="100" width="100" />
 
-				<schedule>
-					<items>
-						<item type="img" itemid="0" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380687840-moxies_idle.jpg" duration ="4000" />
-                        <item type="img" itemid="3" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="3000" />
+                <schedule>
+                    <items>
                         <item type="img" itemid="0" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380687840-moxies_idle.jpg" duration ="4000" />
                         <item type="img" itemid="3" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="3000" />
                         <item type="img" itemid="0" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380687840-moxies_idle.jpg" duration ="4000" />
                         <item type="img" itemid="3" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="3000" />
                         <item type="img" itemid="0" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380687840-moxies_idle.jpg" duration ="4000" />
                         <item type="img" itemid="3" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="3000" />
+                        <item type="img" itemid="0" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380687840-moxies_idle.jpg" duration ="4000" />
+                        <item type="3dtriangle" itemid="3" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="3000" />
                     </items>
-				</schedule>
-			</frame>
+                </schedule>
+            </frame>
 
-			<frame id="f2" x="80" y="0">
-				<shape type="rectangle" height="700" width="300" />
+            <frame id="f2" x="100" y="0">
+                <shape type="rectangle" height="100" width="100" />
 
-				<schedule>
-					<items>
-						<item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380687840-moxies_idle.jpg" duration="30000"/>
+                <schedule>
+                    <items>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380687840-moxies_idle.jpg" duration="30000"/>
                         <item type="web" itemid="2" src="http://www.lsquarednetworks.com/" duration="40000"/>
-					</items>
-				</schedule>
-			</frame>
+                    </items>
+                </schedule>
+            </frame>
 
-			<frame id="f3" x="390" y="0">
-				<shape type="rectangle" height="700" width="200" />
+            <frame id="f3" x="200" y="0">
+                <shape type="rectangle" height="50" width="200" />
 
-				<schedule>
-					<items transitionIn="fade_in" transitionOut="fade_out">
-						<item type="img" itemid="3" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="3000" />
-						<item type="img" itemid="4" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1386226650-holiday_gathering_app.jpg" duration="12000" />
-						<item type="img" itemid="5" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380780774-cjpc_banner_1066x320_sep13.jpg" duration="4000" />
-					</items>
-				</schedule>
-			</frame>
+                <schedule>
+                    <items transitionIn="fade_in" transitionOut="fade_out">
+                        <item type="img" itemid="3" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="3000" />
+                        <item type="img" itemid="4" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1386226650-holiday_gathering_app.jpg" duration="12000" />
+                        <item type="img" itemid="5" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380780774-cjpc_banner_1066x320_sep13.jpg" duration="4000" />
+                    </items>
+                </schedule>
+            </frame>
 
-			<frame id="f4" x="590" y="0">
-				<shape type="rectangle" height="700" width="200" />
 
-				<schedule>
-					<items>
-						<item type="vid" itemid="6" src="http://www.semanticdevlab.com/abc.mp4" duration="56"/>
-					</items>
-				</schedule>
-			</frame>
 
-			<frame id="f5" x="800" y="100">
-				<shape type="rectangle" height="700" width="100" />
+            <frame id="f4" x="0" y="100">
+                <shape type="rectangle" height="100" width="200" />
 
-				<schedule>
-					<items transitionIn="fade_in" transitionOut="fade_out">
-                        <item type="anim" itemid="7" src="http://dev2.lsquarednetworks.com/toDownload/sampleAnim.swf" duration="20000" />
-						<item type="img" itemid="8" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="12000" />
-						<!--item type="vid" itemid="9" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/vendor/pg/video/1337057212-Moxies.flv" duration="24"/-->
-                        <item type="vid" itemid="9" src="http://www.semanticdevlab.com/abc.mp4" duration="24"/>
-                        <item type="img" itemid="10" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1386226650-holiday_gathering_app.jpg" duration="12000" />
-						<item type="img" itemid="11" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380780774-cjpc_banner_1066x320_sep13.jpg" duration="12000" />
-						<item type="anim" itemid="12" src="http://dev2.lsquarednetworks.com/toDownload/golden.swf" duration="20" />
-					</items>
-				</schedule>
-			</frame>
-		</frames>
-	</layout>
+                <schedule>
+                    <items>
+                        <item type="img" itemid="0" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380687840-moxies_idle.jpg" duration ="4000" />
+                        <item type="img" itemid="3" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="3000" />
+
+                    </items>
+                </schedule>
+            </frame>
+
+            <frame id="f5" x="200" y="50">
+                <shape type="rectangle" height="100" width="100" />
+
+                <schedule>
+                    <items>
+                        <item type="vid" itemid="6" src="http://www.semanticdevlab.com/abc.mp4" duration="5600"/>
+
+                    </items>
+                </schedule>
+            </frame>
+
+            <frame id="f6" x="300" y="50">
+                <shape type="rectangle" height="50" width="100" />
+
+                <schedule>
+                    <items>
+                        <item type="img" itemid="0" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380687840-moxies_idle.jpg" duration ="4000" />
+                        <item type="img" itemid="3" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="3000" />
+
+                        <item type="vid" itemid="6" src="http://www.semanticdevlab.com/abc.mp4" duration="5600"/>
+                        <item type="3dcube" itemid="6" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="5600"/>
+                    </items>
+                </schedule>
+            </frame>
+
+            <frame id="f7" x="200" y="150">
+                <shape type="rectangle" height="50" width="100" />
+
+                <schedule>
+                    <items>
+                        <item type="img" itemid="0" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380687840-moxies_idle.jpg" duration ="4000" />
+                        <item type="img" itemid="3" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="3000" />
+
+                        <item type="vid" itemid="6" src="http://www.semanticdevlab.com/abc.mp4" duration="5600"/>
+                        <item type="3dcube" itemid="6" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="5600"/>
+                    </items>
+                </schedule>
+            </frame>
+
+            <frame id="f8" x="300" y="100">
+                <shape type="rectangle" height="100" width="100" />
+
+                <schedule>
+                    <items>
+                        <item type="vid" itemid="6" src="http://www.semanticdevlab.com/abc.mp4" duration="56000"/>
+
+                    </items>
+                </schedule>
+            </frame>
+
+
+        </frames>
+    </layout>
 </kiosk>
