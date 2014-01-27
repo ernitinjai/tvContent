@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kiosk>
     <layout>
-        <device id="lsn" version="009" width = "400" height = "200" startTime="27/1/2014 9:30:00" endTime="2/1/2014 9:33:00" />
+        <device id="lsn" version="010" width = "1095" height = "750" startTime="27/1/2014 9:40:00" endTime="27/1/2014 9:42:00" />
         <frames>
             <frame id="f1" x="0" y="0" bgcolor="#abcdef">
-                <shape type="rectangle" height="100" width="200" />
+                <shape type="rectangle" height="370" width="545" />
 
                 <schedule>
                     <items>
@@ -20,8 +20,8 @@
                 </schedule>
             </frame>
 
-            <frame id="f2" x="200" y="0">
-                <shape type="rectangle" height="100" width="200" />
+            <frame id="f2" x="0" y="375">
+                <shape type="rectangle" height="370" width="270" />
 
                 <schedule>
                     <items>
@@ -31,8 +31,8 @@
                 </schedule>
             </frame>
 
-            <frame id="f3" x="0" y="100">
-                <shape type="rectangle" height="100" width="200" />
+            <frame id="f3" x="275" y="375">
+                <shape type="rectangle" height="370" width="270" />
 
                 <schedule>
                     <items transitionIn="fade_in" transitionOut="fade_out">
@@ -53,18 +53,48 @@
                 </schedule>
             </frame-->
 
-            <frame id="f4" x="200" y="100">
-                <shape type="rectangle" height="100" width="200" />
+            <frame id="f4" x="550" y="0">
+                <shape type="rectangle" height="370" width="270" />
 
                 <schedule>
                     <items>
-                        <item type="vid" itemid="6" src="http://www.semanticdevlab.com/abc.mp4" duration="5600"/>
                         <item type="3dcube" itemid="6" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="5600"/>
                     </items>
                 </schedule>
             </frame>
 
+            <frame id="f5" x="825" y="0">
+                <shape type="rectangle" height="370" width="270" />
 
+                <schedule>
+                    <items transitionIn="fade_in" transitionOut="fade_out">
+                        <item type="anim" itemid="7" src="http://dev2.lsquarednetworks.com/toDownload/sampleAnim.swf" duration="20000" />
+                        <item type="img" itemid="8" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="12000" />
+                        <!--item type="vid" itemid="9" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/vendor/pg/video/1337057212-Moxies.flv" duration="24"/-->
+                        <item type="vid" itemid="9" src="http://www.semanticdevlab.com/abc.mp4" duration="24000"/>
+                        <item type="img" itemid="10" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1386226650-holiday_gathering_app.jpg" duration="12000" />
+                        <item type="img" itemid="11" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380780774-cjpc_banner_1066x320_sep13.jpg" duration="12000" />
+                        <item type="3dcube" itemid="12" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380780774-cjpc_banner_1066x320_sep13.jpg" duration="20000" />
+                    </items>
+                </schedule>
+            </frame>
+
+            <frame id="f6" x="555" y="380">
+                <shape type="rectangle" height="370" width="545" />
+
+                <schedule>
+                    <items transitionIn="fade_in" transitionOut="fade_out">
+                        <item type="anim" itemid="7" src="http://dev2.lsquarednetworks.com/toDownload/sampleAnim.swf" duration="20000" />
+                        <item type="img" itemid="8" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="12000" />
+                        <!--item type="vid" itemid="9" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/vendor/pg/video/1337057212-Moxies.flv" duration="24"/-->
+                        <item type="vid" itemid="9" src="http://www.semanticdevlab.com/abc.mp4" duration="24"/>
+                        <item type="img" itemid="10" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1386226650-holiday_gathering_app.jpg" duration="12000" />
+                        <item type="img" itemid="11" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380780774-cjpc_banner_1066x320_sep13.jpg" duration="12000" />
+                        <item type="anim" itemid="12" src="http://dev2.lsquarednetworks.com/toDownload/golden.swf" duration="20" />
+                        <item type="vid" itemid="9" src="http://www.semanticdevlab.com/abc.mp4" duration="24000"/>
+                    </items>
+                </schedule>
+            </frame>
         </frames>
     </layout>
 </kiosk>
