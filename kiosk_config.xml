@@ -1,100 +1,285 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kiosk>
     <layout>
-        <device id="lsn" version="012" width = "1095" height = "750" startTime="27/1/2014 19:40:00" endTime="27/1/2014 19:45:00" />
+        <device id="lsn" version="012" width = "1920" height= "1080" startTime="27/1/2014 20:00:00" endTime="27/1/2014 20:10:00" />
         <frames>
             <frame id="f1" x="0" y="0" bgcolor="#abcdef">
-                <shape type="rectangle" height="370" width="545" />
+                <shape type="rectangle" width="384" height="216" />
 
                 <schedule>
                     <items>
-                        <item type="img" itemid="0" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380687840-moxies_idle.jpg" duration ="4000" />
-                        <item type="img" itemid="3" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="3000" />
-                        <item type="img" itemid="0" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380687840-moxies_idle.jpg" duration ="4000" />
-                        <item type="img" itemid="3" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="3000" />
-                        <item type="img" itemid="0" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380687840-moxies_idle.jpg" duration ="4000" />
-                        <item type="img" itemid="3" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="3000" />
-                        <item type="img" itemid="0" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380687840-moxies_idle.jpg" duration ="4000" />
-                        <item type="img" itemid="3" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="3000" />
+                        <item type="img" itemid="0" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/1.jpg" duration ="300000" />
+                        <item type="vid" itemid="3" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/1.mp4" duration="300000" />
                     </items>
                 </schedule>
             </frame>
 
-            <frame id="f2" x="0" y="375">
-                <shape type="rectangle" height="370" width="270" />
+            <frame id="f2" x="385" y="0">
+                <shape type="rectangle" width="384" height="216" />
 
                 <schedule>
                     <items>
-                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380687840-moxies_idle.jpg" duration="30000"/>
-                        <item type="web" itemid="2" src="http://www.lsquarednetworks.com/" duration="40000"/>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/2.jpg" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/2.mp4" duration="300000"/>
                     </items>
                 </schedule>
             </frame>
 
-            <frame id="f3" x="275" y="375">
-                <shape type="rectangle" height="370" width="270" />
-
-                <schedule>
-                    <items transitionIn="fade_in" transitionOut="fade_out">
-                        <item type="img" itemid="3" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="3000" />
-                        <item type="img" itemid="4" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1386226650-holiday_gathering_app.jpg" duration="12000" />
-                        <item type="img" itemid="5" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380780774-cjpc_banner_1066x320_sep13.jpg" duration="4000" />
-                    </items>
-                </schedule>
-            </frame>
-
-            <!--frame id="f4" x="550" y="0">
-                <shape type="rectangle" height="370" width="270" />
+            <frame id="f3" x="769" y="0">
+                <shape type="rectangle" width="384" height="216" />
 
                 <schedule>
                     <items>
-                        <item type="vid" itemid="6" src="http://www.semanticdevlab.com/abc.mp4" duration="5600"/>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/3.jpg" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/3.mp4" duration="300000"/>
                     </items>
                 </schedule>
-            </frame-->
+            </frame>
 
-            <frame id="f4" x="550" y="0">
-                <shape type="rectangle" height="370" width="270" />
+            <frame id="f4" x="1153" y="0">
+                <shape type="rectangle" width="384" height="216" />
 
                 <schedule>
                     <items>
-                        <item type="3dcube" itemid="6" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="5600"/>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/4.jpg" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/4.mp4" duration="300000"/>
                     </items>
                 </schedule>
             </frame>
 
-            <frame id="f5" x="825" y="0">
-                <shape type="rectangle" height="370" width="270" />
+            <frame id="f5" x="1537" y="213">
+                <shape type="rectangle" width="384" height="216" />
 
                 <schedule>
-                    <items transitionIn="fade_in" transitionOut="fade_out">
-                        <item type="anim" itemid="7" src="http://dev2.lsquarednetworks.com/toDownload/sampleAnim.swf" duration="20000" />
-                        <item type="img" itemid="8" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="12000" />
-                        <!--item type="vid" itemid="9" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/vendor/pg/video/1337057212-Moxies.flv" duration="24"/-->
-                        <item type="vid" itemid="9" src="http://www.semanticdevlab.com/abc.mp4" duration="24000"/>
-                        <item type="img" itemid="10" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1386226650-holiday_gathering_app.jpg" duration="12000" />
-                        <item type="img" itemid="11" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380780774-cjpc_banner_1066x320_sep13.jpg" duration="12000" />
-                        <item type="3dcube" itemid="12" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380780774-cjpc_banner_1066x320_sep13.jpg" duration="20000" />
+                    <items>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/5.jpg" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/5.mp4" duration="300000"/>
                     </items>
                 </schedule>
             </frame>
 
-            <frame id="f6" x="555" y="380">
-                <shape type="rectangle" height="370" width="545" />
+            <frame id="f6" x="0" y="217">
+                <shape type="rectangle" width="384" height="216" />
 
                 <schedule>
-                    <items transitionIn="fade_in" transitionOut="fade_out">
-                        <item type="anim" itemid="7" src="http://dev2.lsquarednetworks.com/toDownload/sampleAnim.swf" duration="20000" />
-                        <item type="img" itemid="8" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380688281-moxies_app.jpg" duration="12000" />
-                        <!--item type="vid" itemid="9" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/vendor/pg/video/1337057212-Moxies.flv" duration="24"/-->
-                        <item type="vid" itemid="9" src="http://www.semanticdevlab.com/abc.mp4" duration="24"/>
-                        <item type="img" itemid="10" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1386226650-holiday_gathering_app.jpg" duration="12000" />
-                        <item type="img" itemid="11" src="http://dev2.lsquarednetworks.com/H146/admin/resources/local/advert/1380780774-cjpc_banner_1066x320_sep13.jpg" duration="12000" />
-                        <item type="anim" itemid="12" src="http://dev2.lsquarednetworks.com/toDownload/golden.swf" duration="20" />
-                        <item type="vid" itemid="9" src="http://www.semanticdevlab.com/abc.mp4" duration="24000"/>
+                    <items>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/6.jpg" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/6.mp4" duration="300000"/>
                     </items>
                 </schedule>
             </frame>
+
+            <frame id="f7" x="385" y="217">
+                <shape type="rectangle" width="384" height="216" />
+
+                <schedule>
+                    <items>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/7.jpg" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/7.mp4" duration="300000"/>
+                    </items>
+                </schedule>
+            </frame>
+
+            <frame id="f8" x="769" y="217">
+                <shape type="rectangle" width="384" height="216" />
+
+                <schedule>
+                    <items>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/8.jpg" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/8.mp4" duration="300000"/>
+                    </items>
+                </schedule>
+            </frame>
+
+            <frame id="f9" x="1153" y="217">
+                <shape type="rectangle" width="384" height="216" />
+
+                <schedule>
+                    <items>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/9.jpg" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/9.mp4" duration="300000"/>
+                    </items>
+                </schedule>
+            </frame>
+
+            <frame id="f10" x="1537" y="0">
+                <shape type="rectangle" width="384" height="216" />
+
+                <schedule>
+                    <items>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/10.jpg" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/10.mp4" duration="300000"/>
+                    </items>
+                </schedule>
+            </frame>
+
+            <frame id="f11" x="0" y="433">
+                <shape type="rectangle" width="384" height="216" />
+
+                <schedule>
+                    <items>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/11.jpg" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/11.mp4" duration="300000"/>
+                    </items>
+                </schedule>
+            </frame>
+
+            <frame id="f12" x="385" y="433">
+                <shape type="rectangle" width="384" height="216" />
+
+                <schedule>
+                    <items>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/12.jpg" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/12.mp4" duration="300000"/>
+                    </items>
+                </schedule>
+            </frame>
+
+            <frame id="f13" x="769" y="433">
+                <shape type="rectangle" width="384" height="216" />
+
+                <schedule>
+                    <items>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/13.jpg" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/13.mp4" duration="300000"/>
+                    </items>
+                </schedule>
+            </frame>
+
+            <frame id="f14" x="1153" y="433">
+                <shape type="rectangle" width="384" height="216" />
+
+                <schedule>
+                    <items>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/14.jpg" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/14.mp4" duration="300000"/>
+                    </items>
+                </schedule>
+            </frame>
+
+            <frame id="f15" x="1537" y="433">
+                <shape type="rectangle" width="384" height="216" />
+
+                <schedule>
+                    <items>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/15.jpg" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/15.mp4" duration="300000"/>
+                    </items>
+                </schedule>
+            </frame>
+
+            <frame id="f16" x="0" y="649">
+                <shape type="rectangle" width="384" height="216" />
+
+                <schedule>
+                    <items>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/16.jpg" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/16.mp4" duration="300000"/>
+                    </items>
+                </schedule>
+            </frame>
+
+            <frame id="f17" x="385" y="649">
+                <shape type="rectangle" width="384" height="216" />
+
+                <schedule>
+                    <items>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/17.jpg" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/17.mp4" duration="300000"/>
+                    </items>
+                </schedule>
+            </frame>
+
+            <frame id="f18" x="769" y="649">
+                <shape type="rectangle" width="384" height="216" />
+
+                <schedule>
+                    <items>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/18.jpg" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/18.mp4" duration="300000"/>
+                    </items>
+                </schedule>
+            </frame>
+
+            <frame id="f19" x="1153" y="649">
+                <shape type="rectangle" width="384" height="216" />
+
+                <schedule>
+                    <items>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/19.jpg" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/19.mp4" duration="300000"/>
+                    </items>
+                </schedule>
+            </frame>
+
+            <frame id="f20" x="1537" y="649">
+                <shape type="rectangle" width="384" height="216" />
+
+                <schedule>
+                    <items>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/20.jpg" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/20.mp4" duration="300000"/>
+                    </items>
+                </schedule>
+            </frame>
+
+            <frame id="f21" x="0" y="865">
+                <shape type="rectangle" width="384" height="216" />
+
+                <schedule>
+                    <items>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/21.jpg" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/21.mp4" duration="300000"/>
+                    </items>
+                </schedule>
+            </frame>
+
+            <frame id="f22" x="385" y="865">
+                <shape type="rectangle" width="384" height="216" />
+
+                <schedule>
+                    <items>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/22.jpg" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/22.mp4" duration="300000"/>
+                    </items>
+                </schedule>
+            </frame>
+
+            <frame id="f23" x="769" y="865">
+                <shape type="rectangle" width="384" height="216" />
+
+                <schedule>
+                    <items>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/23.jpg" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/23.mp4" duration="300000"/>
+                    </items>
+                </schedule>
+            </frame>
+
+            <frame id="f24" x="1153" y="865">
+                <shape type="rectangle" width="384" height="216" />
+
+                <schedule>
+                    <items>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/24.jpg" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/24.mp4" duration="300000"/>
+                    </items>
+                </schedule>
+            </frame>
+
+            <frame id="f25" x="1537" y="865">
+                <shape type="rectangle" width="384" height="216" />
+
+                <schedule>
+                    <items>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/25.jpg" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/25.mp4" duration="300000"/>
+                    </items>
+                </schedule>
+            </frame>
+
+
+
         </frames>
     </layout>
 </kiosk>
