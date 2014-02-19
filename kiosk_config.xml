@@ -8,7 +8,7 @@
 
                 <schedule>
                     <items>
-                        <item type="vid" itemid="3" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_1.mp4" duration="300000" />
+                        <item type="vid" itemid="3" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_1.mp4" duration="120000" />
                         <item type="img" itemid="0" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/1.jpg" duration ="3000" />
 
                     </items>
@@ -20,7 +20,7 @@
 
                 <schedule>
                     <items>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_2.mp4" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_2.mp4" duration="120000"/>
                         <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/2.jpg" duration="8000"/>
 
                     </items>
@@ -32,7 +32,7 @@
 
                 <schedule>
                     <items>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_3.mp4" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_3.mp4" duration="120000"/>
                         <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/3.jpg" duration="10000"/>
 
                     </items>
@@ -44,7 +44,7 @@
 
                 <schedule>
                     <items>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_4.mp4" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_4.mp4" duration="120000"/>
                         <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/4.jpg" duration="20000"/>
 
                     </items>
@@ -56,8 +56,8 @@
 
                 <schedule>
                     <items>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_6.mp4" duration="300000"/>
-                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/5.jpg" duration="300000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_6.mp4" duration="120000"/>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/5.jpg" duration="120000"/>
 
                     </items>
                 </schedule>
@@ -68,8 +68,8 @@
 
                 <schedule>
                     <items>
-                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/6.jpg" duration="300000"/>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_6.mp4" duration="300000"/>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/6.jpg" duration="120000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_6.mp4" duration="120000"/>
                     </items>
                 </schedule>
             </frame>
@@ -79,8 +79,8 @@
 
                 <schedule>
                     <items>
-                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/7.jpg" duration="300000"/>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_7.mp4" duration="300000"/>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/7.jpg" duration="120000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_7.mp4" duration="120000"/>
                     </items>
                 </schedule>
             </frame>
@@ -90,8 +90,8 @@
 
                 <schedule>
                     <items>
-                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/8.jpg" duration="300000"/>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_8.mp4" duration="300000"/>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/8.jpg" duration="120000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_8.mp4" duration="120000"/>
                     </items>
                 </schedule>
             </frame>
@@ -101,8 +101,8 @@
 
                 <schedule>
                     <items>
-                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/9.jpg" duration="300000"/>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_9.mp4" duration="300000"/>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/9.jpg" duration="120000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_9.mp4" duration="120000"/>
                     </items>
                 </schedule>
             </frame>
@@ -112,8 +112,8 @@
 
                 <schedule>
                     <items>
-                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/10.jpg" duration="300000"/>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_10.mp4" duration="300000"/>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/10.jpg" duration="120000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_10.mp4" duration="120000"/>
                     </items>
                 </schedule>
             </frame>
@@ -123,8 +123,8 @@
 
                 <schedule>
                     <items>
-                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/11.jpg" duration="300000"/>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_11.mp4" duration="300000"/>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/11.jpg" duration="120000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_11.mp4" duration="120000"/>
                     </items>
                 </schedule>
             </frame>
@@ -134,8 +134,8 @@
 
                 <schedule>
                     <items>
-                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/12.jpg" duration="300000"/>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_12.mp4" duration="300000"/>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/12.jpg" duration="120000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_12.mp4" duration="120000"/>
                     </items>
                 </schedule>
             </frame>
@@ -145,8 +145,8 @@
 
                 <schedule>
                     <items>
-                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/13.jpg" duration="300000"/>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_13.mp4" duration="300000"/>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/13.jpg" duration="120000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_13.mp4" duration="120000"/>
                     </items>
                 </schedule>
             </frame>
@@ -156,8 +156,8 @@
 
                 <schedule>
                     <items>
-                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/14.jpg" duration="300000"/>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_14.mp4" duration="300000"/>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/14.jpg" duration="120000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_14.mp4" duration="120000"/>
                     </items>
                 </schedule>
             </frame>
@@ -167,8 +167,8 @@
 
                 <schedule>
                     <items>
-                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/15.jpg" duration="300000"/>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_15.mp4" duration="300000"/>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/15.jpg" duration="120000"/>
+
                     </items>
                 </schedule>
             </frame>
@@ -178,8 +178,8 @@
 
                 <schedule>
                     <items>
-                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/16.jpg" duration="300000"/>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_16.mp4" duration="300000"/>
+
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_16.mp4" duration="120000"/>
                     </items>
                 </schedule>
             </frame>
@@ -189,8 +189,8 @@
 
                 <schedule>
                     <items>
-                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/17.jpg" duration="300000"/>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_17.mp4" duration="300000"/>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/17.jpg" duration="120000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_17.mp4" duration="120000"/>
                     </items>
                 </schedule>
             </frame>
@@ -200,8 +200,8 @@
 
                 <schedule>
                     <items>
-                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/18.jpg" duration="300000"/>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_18.mp4" duration="300000"/>
+
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_18.mp4" duration="120000"/>
                     </items>
                 </schedule>
             </frame>
@@ -211,8 +211,8 @@
 
                 <schedule>
                     <items>
-                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/19.jpg" duration="300000"/>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_19.mp4" duration="300000"/>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/19.jpg" duration="120000"/>
+
                     </items>
                 </schedule>
             </frame>
@@ -222,7 +222,7 @@
 
                 <schedule>
                     <items>
-                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/20.jpg" duration="300000"/>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/20.jpg" duration="120000"/>
 
                     </items>
                 </schedule>
@@ -233,7 +233,7 @@
 
                 <schedule>
                     <items>
-                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/21.jpg" duration="300000"/>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/21.jpg" duration="120000"/>
 
                     </items>
                 </schedule>
@@ -244,7 +244,7 @@
 
                 <schedule>
                     <items>
-                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/22.jpg" duration="300000"/>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/22.jpg" duration="120000"/>
 
                     </items>
                 </schedule>
@@ -255,7 +255,7 @@
 
                 <schedule>
                     <items>
-                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/23.jpg" duration="300000"/>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/23.jpg" duration="120000"/>
 
                     </items>
                 </schedule>
@@ -266,7 +266,7 @@
 
                 <schedule>
                     <items>
-                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/24.jpg" duration="300000"/>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/24.jpg" duration="120000"/>
 
                     </items>
                 </schedule>
@@ -277,7 +277,7 @@
 
                 <schedule>
                     <items>
-                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/25.jpg" duration="300000"/>
+                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/25.jpg" duration="120000"/>
 
                     </items>
                 </schedule>
