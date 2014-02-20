@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kiosk>
     <device id="lsn" version="012" width = "1920" height= "1080"  />
-    <layout startTime="27/1/2014 20:00:00" endTime="27/1/2014 20:10:00">
+    <layout id ="1" startTime="20/02/2014 20:27:00" endTime="20/03/2014 20:30:00">
         <frames>
             <frame id="f1" x="0" y="0" bgcolor="#abcdef">
                 <shape type="rectangle" width="384" height="216" />
 
-                <schedule>
+                <schedule id ="f1.a" startTime="20/02/2014 20:28:00" endTime="20/02/2014 20:29:00" >
                     <items>
-                        <item type="vid" itemid="3" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_1.mp4" duration="120000" />
-                        <item type="img" itemid="0" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/1.jpg" duration ="3000" />
+                        <item type="vid" itemid="f1.1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_1.mp4" duration="120000" />
+                        <item type="img" itemid="f1.2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/1.jpg" duration ="300000" />
 
                     </items>
                 </schedule>
@@ -282,9 +282,38 @@
                     </items>
                 </schedule>
             </frame>
-
-
-
         </frames>
     </layout>
+
+
+
+    <layout id ="2" startTime="20/02/2014 20:31:00" endTime="20/02/2014 20:35:00">
+    <frames>
+    <frame id="f1" x="0" y="0" bgcolor="#abcdef">
+        <shape type="rectangle" width="500" height="500" />
+
+        <schedule>
+            <items>
+                <item type="vid" itemid="3" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_1.mp4" duration="120000" />
+                <item type="img" itemid="0" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/1.jpg" duration ="3000" />
+
+            </items>
+        </schedule>
+    </frame>
+
+    <frame id="f2" x="500" y="500">
+        <shape type="rectangle" width="500" height="500" />
+
+        <schedule>
+            <items>
+                <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_2.mp4" duration="120000"/>
+                <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/2.jpg" duration="8000"/>
+
+            </items>
+        </schedule>
+    </frame>
+    </frames>
+    </layout>
+
+
 </kiosk>
