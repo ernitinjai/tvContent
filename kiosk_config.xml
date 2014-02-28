@@ -82,7 +82,7 @@
 
                 <schedule>
                     <items>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_8.mp4" duration="120000"/>
+                        <item type ="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_8.mp4" duration="120000"/>
                     </items>
                 </schedule>
             </frame>
