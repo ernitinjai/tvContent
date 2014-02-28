@@ -92,7 +92,7 @@
 
                 <schedule>
                     <items>
-                        <item type="img" itemid="1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/2/9.jpg" duration="120000"/>
+                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_9.mp4" duration="120000"/>
                     </items>
                 </schedule>
             </frame>
