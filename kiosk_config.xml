@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kiosk>
-    <device id="lsn" version="013" width = "300" height= "300"  />
+    <device id="lsn" version="014" width = "300" height= "300"  />
     <layout id ="1" startTime="20/02/2014 21:07:00" endTime="20/03/2014 21:12:00">
         <frames>
             <frame  id="f1" x="0" y="0" bgcolor="#abcdef">
@@ -36,7 +36,7 @@
                 </schedule>
             </frame>
 
-            <!--frame id="f4" x="0" y="100">
+            <frame id="f4" x="0" y="100">
                 <shape type="rectangle" width="100" height="100" />
 
                 <schedule>
@@ -46,7 +46,7 @@
                 </schedule>
             </frame>
 
-            <frame id="f5" x="100" y="100">
+            <!--frame id="f5" x="100" y="100">
                 <shape type="rectangle" width="100" height="100" />
 
                 <schedule>
