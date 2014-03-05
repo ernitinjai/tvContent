@@ -1,102 +1,121 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" ?>
 <kiosk>
-    <device id="lsn" version="015" width = "300" height= "300"  />
-    <layout id ="1" startTime="20/02/2014 21:07:00" endTime="20/03/2014 21:12:00">
+    <device id="14" version="1" width = "900" height= "900"/>
+    -
+    <layout id="60" startTime="2014-03-03 00:00:00" endTime="2014-03-08 00:00:00">
+
         <frames>
-            <frame  id="f1" x="0" y="0" bgcolor="#abcdef">
-                <shape type="rectangle" width="100" height="100" />
+            -
+            <frame id="465" x="0" y="0">
+                <shape type="rectangle" width="300" height="300"/>
 
-                <schedule>
-                    <items>
-                        <item type="vid" itemid="f1.1" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_1.mp4" duration="120000" />
-
-                    </items>
+                <schedule >
+                    <item itemid="66" type="image"
+                          src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1392997458-ManOfSteel.jpg"
+                          duration="12000"/>
+                    <item itemid="66" type="image"
+                          src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1392997458-ManOfSteel.jpg"
+                          duration="1200"/>
+                    <item itemid="63" type="image"
+                          src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1392997452-IronMan.jpg"
+                          duration="120000"/>
+                    <item itemid="65" type="image"
+                          src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1392997453-Batman.jpg"
+                          duration="1200"/>
+                    <item itemid="64" type="image"
+                          src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1392997453-Superman.jpg"
+                          duration="1200"/>
+                    <item itemid="62" type="image"
+                          src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1392997451-ArnoldSchwarzenegger.jpg"
+                          duration="1200"/>
+                    <item itemid="63" type="image"
+                          src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1392997452-IronMan.jpg"
+                          duration="1200"/>
+                    <item itemid="65" type="image"
+                          src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1392997453-Batman.jpg"
+                          duration="1200"/>
                 </schedule>
             </frame>
-
-            <frame id="f2" x="100" y="0">
-                <shape type="rectangle" width="100" height="100" />
-
+            -
+            <frame id="466" x="690" y="0">
+                <shape type="rectangle" width="100" height="100"/>
+                -
                 <schedule>
-                    <items>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_2.mp4" duration="120000"/>
-
-                    </items>
+                    <item itemid="64" type="image"
+                          src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1392997453-Superman.jpg"
+                          duration="1200"/>
+                    <item itemid="63" type="image"
+                          src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1392997452-IronMan.jpg"
+                          duration="12000"/>
+                    <item itemid="65" type="image"
+                          src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1392997453-Batman.jpg"
+                          duration="12000"/>
                 </schedule>
             </frame>
-
-            <frame id="f3" x="200" y="0">
-                <shape type="rectangle" width="100" height="100" />
-
+            -
+            <frame id="467" x="400" y="0">
+                <shape type="rectangle" width="100" height="100"/>
+                -
                 <schedule>
-                    <items>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_3.mp4" duration="120000"/>
-
-                    </items>
+                    <item itemid="66" type="image"
+                          src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1392997458-ManOfSteel.jpg"
+                          duration="12000"/>
+                    <item itemid="64" type="image"
+                          src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1392997453-Superman.jpg"
+                          duration="12000"/>
                 </schedule>
             </frame>
-
-            <frame id="f4" x="0" y="100">
-                <shape type="rectangle" width="100" height="100" />
-
+        </frames>
+    </layout>
+    -
+    <layout id="69" startTime="2014-03-04 00:00:00" endTime="2015-04-04 00:00:00">
+        -
+        <frames>
+            -
+            <frame id="488" x="0" y="0">
+                <shape type="rectangle" width="100" height="100"/>
+                -
                 <schedule>
-                    <items>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_4.mp4" duration="120000"/>
-                    </items>
+                    <item itemid="66" type="image"
+                          src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1392997458-ManOfSteel.jpg"
+                          duration="1200"/>
+                    <item itemid="66" type="image"
+                          src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1392997458-ManOfSteel.jpg"
+                          duration="12"/>
+                    <item itemid="63" type="image"
+                          src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1392997452-IronMan.jpg"
+                          duration="12000"/>
+                    <item itemid="65" type="image"
+                          src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1392997453-Batman.jpg"
+                          duration="12"/>
+                    <item itemid="64" type="image"
+                          src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1392997453-Superman.jpg"
+                          duration="12"/>
+                    <item itemid="62" type="image"
+                          src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1392997451-ArnoldSchwarzenegger.jpg"
+                          duration="12"/>
+                    <item itemid="64" type="image"
+                          src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1392997453-Superman.jpg"
+                          duration="12"/>
+                    <item itemid="63" type="image"
+                          src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1392997452-IronMan.jpg"
+                          duration="12"/>
+                    <item itemid="65" type="image"
+                          src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1392997453-Batman.jpg"
+                          duration="120000"/>
+                    <item itemid="63" type="image"
+                          src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1392997452-IronMan.jpg"
+                          duration="12000"/>
+
                 </schedule>
             </frame>
-
-            <frame id="f5" x="100" y="100">
-                <shape type="rectangle" width="100" height="100" />
-
-                <schedule>
-                    <items>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_5.mp4" duration="120000"/>
-
-                    </items>
-                </schedule>
+            -
+            <frame id="489" x="165" y="0">
+                <shape type="rectangle" width="100" height="100"/>
+                <item itemid="65" type="image"
+                      src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1392997453-Batman.jpg"
+                      duration="1200"/>
             </frame>
-
-            <frame id="f6" x="200" y="100">
-                <shape type="rectangle" width="100" height="100" />
-
-                <schedule>
-                    <items>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_6.mp4" duration="120000"/>
-                    </items>
-                </schedule>
-            </frame>
-
-            <!--frame id="f7" x="0" y="200">
-                <shape type="rectangle" width="100" height="100" />
-
-                <schedule>
-                    <items>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_7.mp4" duration="120000"/>
-                    </items>
-                </schedule>
-            </frame>
-
-            <!--frame id="f8" x="100" y="200">
-                <shape type="rectangle" width="100" height="100" />
-
-                <schedule>
-                    <items>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_8.mp4" duration="120000"/>
-                    </items>
-                </schedule>
-            </frame>
-
-            <frame id="f9" x="200" y="200">
-                <shape type="rectangle" width="100" height="100" />
-
-                <schedule>
-                    <items>
-                        <item type="vid" itemid="2" src="http://dev2.lsquarednetworks.com/toDownload/test_schedule/schedule_1/3/vid_9.mp4" duration="120000"/>
-                    </items>
-                </schedule>
-            </frame-->
-
         </frames>
     </layout>
 </kiosk>
