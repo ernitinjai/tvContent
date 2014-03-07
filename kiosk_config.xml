@@ -1,38 +1,20 @@
 
 <?xml version="1.0"?>
 <kiosk>
-  <device id="42" version="1234567"/>
+  <device id="42" version="567"/>
   <layout id="53" startTime="2014-03-07 00:00:00" endTime="2014-03-20 00:00:00" width="1920" height="1080">
     <frames>
       <frame id="458" x="0" y="0">
         <shape type="rectangle" width="990" height="530"/>
         <schedule id="157" startDate="2014-03-07 00:00:00" endDate="2014-03-15 24:00:00" isCustom="0">
-          <item itemid="105" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393400908-Subaru-Outback.jpg" duration="12000"/>
-          <item itemid="104" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393400907-Subaru-Impreza.jpg" duration="12000"/>
-          <item itemid="103" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393400902-Nissan-370Z.jpg" duration="12000"/>
-          <item itemid="102" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393400900-AstonMartin-Vanquish.jpg" duration="12000"/>
-          <item itemid="101" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393400899-Porsche-911.jpg" duration="12000"/>
+          <item itemid="10500" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393400908-Subaru-Outback.jpg" duration="12000"/>
+          <item itemid="10400" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393400907-Subaru-Impreza.jpg" duration="12000"/>
+          <item itemid="10300" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393400902-Nissan-370Z.jpg" duration="12000"/>
+          <item itemid="10200" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393400900-AstonMartin-Vanquish.jpg" duration="12000"/>
+          <item itemid="10100" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393400899-Porsche-911.jpg" duration="12000"/>
         </schedule>
       </frame>
-      <frame id="459" x="990" y="0">
-        <shape type="rectangle" width="930" height="530"/>
-        <schedule id="158" startDate="2014-03-07 00:00:00" endDate="2014-03-15 24:00:00" isCustom="0">
-          <item itemid="113" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393403879-Thierry-Henry.jpg" duration="12000"/>
-          <item itemid="112" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393403875-HarrisonBarnes.jpg" duration="12000"/>
-          <item itemid="110" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393403869-Jack-Wilshere-Arsenal.jpg" duration="12000"/>
-          <item itemid="111" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393403870-Happy-Lionel-Messi.jpg" duration="12000"/>
-        </schedule>
-      </frame>
-      <frame id="460" x="0" y="530">
-        <shape type="rectangle" width="1920" height="550"/>
-        <schedule id="159" startDate="2014-03-07 00:00:00" endDate="2014-03-15 24:00:00" isCustom="0">
-          <item itemid="147" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393514482-Hilton-Valentines.jpg" duration="12000"/>
-          <item itemid="146" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393514481-Hilton-SavourYorkRegion.jpg" duration="12000"/>
-          <item itemid="145" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393514479-FourPointsSheraton.jpg" duration="12000"/>
-          <item itemid="144" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393514479-Hilton-EaseterCelebration.jpg" duration="12000"/>
-          <item itemid="143" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393514478-HiltonToronto.jpg" duration="12000"/>
-        </schedule>
-      </frame>
+
     </frames>
   </layout>
 </kiosk>
