@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <kiosk>
-  <device id="42" version="5681"/>
+  <device id="42" version="5682"/>
   <layout id="53" startTime="2014-03-07 00:00:00" endTime="2014-03-20 00:00:00" width="1920" height="1080">
     <frames>
-      <frame id="458" x="0" y="0">
+      <frame id="458" x="990" y="0">
         <shape type="rectangle" width="990" height="530"/>
         <schedule id="157" startDate="2014-03-07 00:00:00" endDate="2014-03-15 24:00:00" isCustom="0">
           <item itemid="10500" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393400908-Subaru-Outback.jpg" duration="12000"/>
