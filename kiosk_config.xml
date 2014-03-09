@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <kiosk>
-  <device id="42" version="604090"/>
+  <device id="42" version="67123"/>
   <layout id="53" startTime="2014-03-07 00:00:00" endTime="2014-03-20 00:00:00" width="1920" height="1080">
     <frames>
       <frame id="458" x="0" y="0">
-        <shape type="rectangle" width="990" height="530"/>
+        <shape type="rectangle" width="990" height="1080"/>
         <schedule id="157" startDate="2014-03-07 00:00:00" endDate="2014-03-15 24:00:00" isCustom="0">
           <item itemid="10500" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393400908-Subaru-Outback.jpg" duration="12000"/>
           <item itemid="10400" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393400907-Subaru-Impreza.jpg" duration="12000"/>
@@ -15,7 +15,7 @@
       </frame>
 
         <frame id="459" x="990" y="0">
-            <shape type="rectangle" width="930" height="530"/>
+            <shape type="rectangle" width="930" height="1080"/>
             <schedule id="158" startDate="2014-03-07 00:00:00" endDate="2014-03-15 24:00:00" isCustom="0">
                 <item itemid="113" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393403879-Thierry-Henry.jpg" duration="12000"/>
                 <item itemid="112" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393403875-HarrisonBarnes.jpg" duration="12000"/>
