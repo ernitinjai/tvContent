@@ -46,7 +46,7 @@
             <frame id="459" x="990" y="0">
                 <shape type="rectangle" width="930" height="530"/>
                 -
-                <schedule id="158" startDate="2014-03-10 00:00:00" endDate="2014-03-15 24:00:00" isCustom="0">
+                <schedule>
                     <item itemid="113" type="image"
                           src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393403879-Thierry-Henry.jpg"
                           duration="12000"/>
