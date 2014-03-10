@@ -1,15 +1,15 @@
 <?xml version="1.0" ?>
 <kiosk>
-    <device id="42" version="00"/>
+    <device id="42" version="frame"/>
     -
-    <layout id="53" startTime="2014-03-07 00:00:00" endTime="2014-03-20 00:00:00" width="1920" height="1080">
+    <layout id="53" startTime="2014-03-10 19:38:00" endTime="2014-03-10 19:50:00" width="1920" height="1080">
         -
         <frames>
             -
             <frame id="458" x="0" y="0">
-                <shape type="rectangle" width="990" height="530"/>
+                <shape type="rectangle" width="100" height="530"/>
                 -
-                <schedule id="157" startDate="2014-03-07 00:00:00" endDate="2014-03-15 24:00:00" isCustom="0">
+                <schedule id="157" startDate="2014-03-10 19:40:00" endDate="2014-03-10 19:45:00" isCustom="0">
                     <item itemid="105" type="image"
                           src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393400908-Subaru-Outback.jpg"
                           duration="12000"/>
@@ -27,7 +27,7 @@
                           duration="12000"/>
                 </schedule>
                 -
-                <schedule id="161" startDate="2014-03-04 00:00:00" endDate="2014-04-02 24:00:00" isCustom="0">
+                <schedule id="161" startDate="2014-03-10 19:48:00" endDate="2014-04-10 19:50:00" isCustom="0">
                     <item itemid="150" type="image"
                           src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393514489-Tundra-MojitoMadness.jpg"
                           duration="12000"/>
@@ -46,7 +46,7 @@
             <frame id="459" x="990" y="0">
                 <shape type="rectangle" width="930" height="530"/>
                 -
-                <schedule id="158" startDate="2014-03-07 00:00:00" endDate="2014-03-15 24:00:00" isCustom="0">
+                <schedule id="158" startDate="2014-03-10 00:00:00" endDate="2014-03-15 24:00:00" isCustom="0">
                     <item itemid="113" type="image"
                           src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393403879-Thierry-Henry.jpg"
                           duration="12000"/>
