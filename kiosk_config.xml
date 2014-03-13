@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <kiosk>
     <device id="42" version="0"/>
-    <layout id="53" startTime="2014-03-13 17:45:00" endTime="2014-03-13 17:50:00" width="1920" height="1080">
+    <layout id="53" startTime="2014-03-13 17:50:00" endTime="2014-03-13 17:55:00" width="1920" height="1080">
         <frames>
             <frame id="458" x="0" y="0">
                 <shape type="rectangle" width="990" height="530"/>
-                <schedule id="157" startDate="2014-03-13 17:48:00" endDate="2014-03-13 17:49:00" isCustom="0"/>
+                <schedule id="157" startDate="2014-03-13 17:50:00" endDate="2014-03-13 17:53:00" isCustom="0"/>
                 <item itemid="105" type="image"
                       src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393400908-Subaru-Outback.jpg"
                       duration="12000"/>
@@ -44,11 +44,11 @@
         </frames>
     </layout>
 
-    <layout id="54" startTime="2014-03-13 17:50:00" endTime="2014-03-13 17:51:00" width="1920" height="1080">
+    <layout id="54" startTime="2014-03-13 17:56:00" endTime="2014-03-13 17:58:00" width="1920" height="1080">
         <frames>
             <frame id="458" x="0" y="0">
                 <shape type="rectangle" width="100" height="100"/>
-                <schedule id="158" startDate="2014-03-13 17:42:00" endDate="2014-03-13 17:43:00" isCustom="0"/>
+                <schedule id="158" startDate="2014-03-13 17:56:00" endDate="2014-03-13 17:58:00" isCustom="0"/>
                 <item itemid="105" type="image"
                       src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1393400908-Subaru-Outback.jpg"
                       duration="12000"/>
