@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <kiosk>
-    <device id="42" version="B"/>
+    <device id="42" version="C"/>
     <layout id="53" startTime="2014-03-13 17:58:00" endTime="2014-03-13 18::02" width="1920" height="1080">
         <frames>
             <frame id="458" x="0" y="0">
