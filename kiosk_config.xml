@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <final_kiosk>
-    <device id="15" version="CDF"/>
+    <device id="15" version="PPF"/>
     <layout id="71" width="1920" height="1080" >
         <frames>
-            <frame id="495" x="0" y="0" z="1">
+            <frame id="495" x="45" y="0" z="1">
                 <shape type="rectangle" width="800" height="600"/>
                 <schedules id="160" startDate="2014-03-07 00:00:00" endDate="2015-03-13 00:00:00" isCustom="1"
                            startTime="00:00:00" endTime="02:00:00">
@@ -16,7 +16,7 @@
 
                 </schedules>
             </frame>
-            <frame id="495" x="800" y="400" z="1">
+            <frame id="495" x="600" y="400" z="1">
                 <shape type="rectangle" width="800" height="1200"/>
                 <schedules id="169" startDate="2014-03-03 00:00:00" endDate="2014-03-10 00:00:00" isCustom="1"
                            startTime="02:00:00" endTime="05:00:00">
