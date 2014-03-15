@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <final_kiosk>
-    <device id="15" version="B"/>
+    <device id="15" version="CDF"/>
     <layout id="71" width="1920" height="1080" >
         <frames>
             <frame id="495" x="0" y="0" z="1">
-                <shape type="rectangle" width="800" height="800"/>
+                <shape type="rectangle" width="800" height="600"/>
                 <schedules id="160" startDate="2014-03-07 00:00:00" endDate="2015-03-13 00:00:00" isCustom="1"
                            startTime="00:00:00" endTime="02:00:00">
                     <item itemid="66" type="image"
-                          src="http://images.all-free-download.com/images/graphiclarge/rose_pattern_vector_179752.jpg"
+                          src="http://hdwallpaper2013.com/wp-content/uploads/2013/02/Download-Flower-Background-Images-HD-Wallpaper.jpg"
                           duration="1200"/>
                     <item itemid="64" type="image"
                           src="http://image.shutterstock.com/display_pic_with_logo/1079270/134006624/stock-vector-seamless-rose-pattern-with-brick-color-tone-for-fashion-design-quilting-on-woven-fabric-as-well-134006624.jpg"
@@ -18,7 +18,7 @@
             </frame>
             <frame id="495" x="800" y="0" z="1">
                 <shape type="rectangle" width="800" height="800"/>
-                <schedules id="169" startDate="2014-03-03 00:00:00" endDate="2015-04-10 00:00:00" isCustom="1"
+                <schedules id="169" startDate="2014-03-03 00:00:00" endDate="2014-03-10 00:00:00" isCustom="1"
                            startTime="02:00:00" endTime="05:00:00">
                     <item itemid="65" type="image"
                           src="http://image.shutterstock.com/display_pic_with_logo/918263/134528717/stock-vector-vintage-flower-pattern-134528717.jpg"
