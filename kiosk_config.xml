@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <final_kiosk>
-    <device id="15" version="OOL"/>
+    <device id="15" version="OOLDF"/>
     <layout id="71" width="1920" height="1080" >
         <frames>
             <frame id="495" x="400" y="700" z="1">
