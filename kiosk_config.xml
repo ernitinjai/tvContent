@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <slide>
-    <device id="15" name="ATV-Nitin" mac="00:ad:0e:03:d7:32" version="PPO"/>
+    <device id="15" name="ATV-Nitin" mac="00:ad:0e:03:d7:32" version="tyuiop"/>
     <layout id="76" width="1920" height="1080">
         <frame id="502" scheduleId="190-1" width="960" height="500" x="0" y="0" z="1" isCustom="0" startTime="2014-03-16 00:47:00" endTime="2014-03-17 00:55:00">
             <item itemid="189" type="image" src="http://image.shutterstock.com/display_pic_with_logo/918263/134528717/stock-vector-vintage-flower-pattern-134528717.jpg"  duration="12000"/>
-            <item itemid="191" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1394865805-Whiskey a Go Go 1066 x 1620 72 dpi.jpg" duration="12000"/>
-            <item itemid="190" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1394865802-Ninja_Turtles_1920x1080 HDTV 1080p.jpg" duration="12000"/>
-            <item itemid="189" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1394865802-Red_Audi_E_Tron_Spyder_1920x1080 HDTV 1080p.jpg" duration="12000"/>
+            <item itemid="191" type="image" src="http://deals.ebay.in/ebay-offers/birthday-sale/img/logo.jpg" duration="12000"/>
+            <item itemid="190" type="image" src="http://deals.ebay.in/ebay-offers/birthday-sale/img/Watches.jpg" duration="12000"/>
+            <item itemid="189" type="image" src="http://thumbs.ebaystatic.com/d/l170/pict/171268761520_1.jpg" duration="12000"/>
         </frame>
         <frame id="502" scheduleId="191" width="960" height="500" x="0" y="500" z="1" isCustom="1" startTime="2014-03-15 14:00:00" endTime="2014-03-17 00:43:00">
-            <item itemid="188" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1394865799-Tom_and_Jerry_Cartoon_1920x1080 HDTV 1080p.jpg" duration="12000"/>
-            <item itemid="187" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1394865796-Fallen_Leaf_1920x1080 HDTV 1080p.jpg" duration="12000"/>
-            <item itemid="186" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1394865792-Modern_Warfare_2_1920x1080 HDTV 1080p.jpg" duration="12000"/>
-            <item itemid="189" type="image" src="http://image.shutterstock.com/display_pic_with_logo/918263/134528717/stock-vector-vintage-flower-pattern-134528717.jpg"  duration="12000"/>
+            <item itemid="188" type="image" src="http://deals.ebay.in/ebay-offers/birthday-sale/img/wtf_laptopacc.jpg" duration="12000"/>
+            <item itemid="187" type="image" src="http://deals.ebay.in/ebay-offers/birthday-sale/img/Home_Furnishing.jpg" duration="12000"/>
+            <item itemid="186" type="image" src="http://deals.ebay.in/ebay-offers/birthday-sale/img/wtf_gameacc.jpg" duration="12000"/>
+            <item itemid="189" type="image" src="http://deals.ebay.in/ebay-offers/birthday-sale/img/Laptops.jpg"  duration="12000"/>
         </frame>
 
     </layout>
