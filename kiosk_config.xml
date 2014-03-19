@@ -1,31 +1,19 @@
 <?xml version="1.0"?>
-<final_kiosk>
-    <device id="15" version="OOLDF"/>
-    <layout id="71" width="1920" height="1080" >
-        <frames>
-            <frame id="495" x="400" y="700" z="1">
-                <shape type="rectangle" width="230" height="230"/>
-                <schedules id="160" startDate="2014-03-07 00:00:00" endDate="2015-03-20 00:00:00" isCustom="1"
-                           startTime="00:00:00" endTime="02:00:00">
-                    <item itemid="66" type="image"
-                          src="http://hdwallpaper2013.com/wp-content/uploads/2013/02/Download-Flower-Background-Images-HD-Wallpaper.jpg"
-                          duration="1200"/>
-                    <item itemid="64" type="image"
-                          src="http://image.shutterstock.com/display_pic_with_logo/1079270/134006624/stock-vector-seamless-rose-pattern-with-brick-color-tone-for-fashion-design-quilting-on-woven-fabric-as-well-134006624.jpg"
-                          duration="12000"/>
+<slide>
+    <device id="15" name="ATV-Nitin" mac="00:ad:0e:03:d7:32" version="QQF"/>
+    <layout id="76" width="1920" height="1080">
+        <frame id="502" scheduleId="190-1" width="960" height="1080" x="0" y="0" z="1" isCustom="0" startTime="2014-03-16 00:47:00" endTime="2014-03-17 00:55:00">
+            <item itemid="189" type="image" src="http://image.shutterstock.com/display_pic_with_logo/918263/134528717/stock-vector-vintage-flower-pattern-134528717.jpg"  duration="12000"/>
+            <item itemid="191" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1394865805-Whiskey a Go Go 1066 x 1620 72 dpi.jpg" duration="12000"/>
+            <item itemid="190" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1394865802-Ninja_Turtles_1920x1080 HDTV 1080p.jpg" duration="12000"/>
+            <item itemid="189" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1394865802-Red_Audi_E_Tron_Spyder_1920x1080 HDTV 1080p.jpg" duration="12000"/>
+        </frame>
+        <frame id="502" scheduleId="191" width="960" height="1080" x="960" y="0" z="1" isCustom="1" startTime="2014-03-15 14:00:00" endTime="2014-03-17 00:43:00">
+            <item itemid="188" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1394865799-Tom_and_Jerry_Cartoon_1920x1080 HDTV 1080p.jpg" duration="12000"/>
+            <item itemid="187" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1394865796-Fallen_Leaf_1920x1080 HDTV 1080p.jpg" duration="12000"/>
+            <item itemid="186" type="image" src="http://dev2.lsquarednetworks.com/DigitalSignage/admin/storage/contentLibrary/1394865792-Modern_Warfare_2_1920x1080 HDTV 1080p.jpg" duration="12000"/>
+            <item itemid="189" type="image" src="http://image.shutterstock.com/display_pic_with_logo/918263/134528717/stock-vector-vintage-flower-pattern-134528717.jpg"  duration="12000"/>
+        </frame>
 
-                </schedules>
-            </frame>
-            <frame id="495" x="900" y="0" z="1">
-                <shape type="rectangle" width="780" height="670"/>
-                <schedules id="169" startDate="2014-03-03 00:00:00" endDate="2014-03-20 00:00:00" isCustom="1"
-                           startTime="02:00:00" endTime="05:00:00">
-                    <item itemid="65" type="image"
-                          src="http://image.shutterstock.com/display_pic_with_logo/918263/134528717/stock-vector-vintage-flower-pattern-134528717.jpg"
-                          duration="1200"/>
-
-                </schedules>
-            </frame>
-        </frames>
     </layout>
-</final_kiosk>
+</slide>
